@@ -6,6 +6,6 @@ stage ('stage2') {
 sh 'echo "Perl is STILL King!!"
 }
 stage ('stage3') {
-sh 'echo "Perl is FOREVOR King!!"'
+sh 'echo "Perl is FOREVOR King!!"
 }
 }
